@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello!
+
+I'm [Dwayne](https://www.linkedin.com/in/dwayne-agpad/)
 
 <!--
 **QuAdrUp0/QuAdrUp0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
