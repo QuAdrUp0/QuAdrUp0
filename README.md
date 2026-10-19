@@ -1,7 +1,6 @@
-## Hello!
+## Hello, I'm [Dwayne](https://www.linkedin.com/in/dwayne-agpad/)
 
-I'm [Dwayne](https://www.linkedin.com/in/dwayne-agpad/)
-
+I'm an aspiring Data Engineer currently living in the Philippines. My interests in tech involve Cloud Computing, Data, and System Design. If there's something I want to be part of my work, it's creating systems that actually improve the quality of life of my peers and improving on them to maintain a higher standard of quality.
 <!--
 **QuAdrUp0/QuAdrUp0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
